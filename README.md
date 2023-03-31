@@ -1,3 +1,1 @@
-# d
-# d
-# m
+A simple to-do list extension
