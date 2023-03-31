@@ -9,7 +9,7 @@ chrome.alarms.onAlarm.addListener( function (alarm)
   var notification = chrome.notifications.create(
     'to-do notification', {
       type: 'basic',
-      iconUrl: 'icon.png', 
+      iconUrl: 'logo.png', 
 
       
       title: 'REMINDER TO COMPLETE TASK!',
